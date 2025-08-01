@@ -1,14 +1,14 @@
 ---
-title: test-post
+title: Zen
 published: 2025-08-01
 description: ''
 image: ''
 tags: []
-category: 'test'
+category: 'Zen'
 draft: false 
 lang: ''
 ---
 
-# Test Post
+# Zen
 
 How pathetic to survive, to wane or to thrive. 
