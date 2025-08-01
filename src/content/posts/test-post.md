@@ -4,7 +4,7 @@ published: 2025-08-01
 description: ''
 image: ''
 tags: []
-category: ''
+category: 'test'
 draft: false 
 lang: ''
 ---
