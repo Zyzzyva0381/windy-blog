@@ -5,7 +5,7 @@ description: ''
 image: ''
 tags: []
 category: 'Zen'
-draft: false 
+draft: true
 lang: ''
 ---
 
