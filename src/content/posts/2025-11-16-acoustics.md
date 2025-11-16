@@ -8,11 +8,20 @@ category: 'Acoustics'
 draft: false
 lang: ''
 ---
+**物理量的复数**表示：若 $z=xy$，则 $Z = X Re(Y) = X^* Re(Y) = \frac{1}{2} (X^*Y + XY) $
 
-到底支不支持公式？
+所以 $xy = \frac{1}{2} Re(x^*y+xy)$ ，在振动的时候，前一项是常数，后一项是震荡的。
+
+**非理想弹簧**质量的影响
 
 $$
-z=xy
+E_k = \int_0^l \frac{1}{2} \frac{M_s}{l} (\frac{v x}{l})^2dx + \frac{1}{2} M_m v^2
 $$
 
-and then $Z = \frac{1}{2} (XY + X*Y)$
+**阻尼（Damping）效应**
+
+**衰减（decaying）系数** $2\delta = \frac{R_m}{M_m}$
+
+推导能量随时间的变化
+
+瞬态解和稳态解的线性组合，求定解问题
